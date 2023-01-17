@@ -15,7 +15,7 @@ BÖLÜM 2
 ARA MENÜ
 ![aramenu](https://user-images.githubusercontent.com/75533278/212963814-77413bed-0655-4674-a95f-d1832ffc710f.PNG)
 
-#Benim Geliştirdiğim Kısımlar:
+# Benim Geliştirdiğim Kısımlar:
 <br>
 
 Oyun hikayesi , Oyun tasarımı , karakterin sağa sola yukarı yönlü hareketleri , karakterin silahı alabilmesi ve silah kullanımı , Mermi haraketi , karakter animasyonları hareket , karakter ses animasyonları , oyun müziği , Skor hesaplama , Sahne geçişleri , En yüksek skor hesabı ve kaydının alınması.
