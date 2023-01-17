@@ -20,7 +20,7 @@ ARA MENÜ
 
 Oyun hikayesi , Oyun tasarımı , karakterin sağa sola yukarı yönlü hareketleri , karakterin silahı alabilmesi ve silah kullanımı , Mermi haraketi , karakter animasyonları hareket , karakter ses animasyonları , oyun müziği , Skor hesaplama , Sahne geçişleri , En yüksek skor hesabı ve kaydının alınması.
 
-<h3>Scriptler : ak47_sc, hazine_sc, KameraTakip, mermi_sc, ses_sc, para_sc, playerMove(ortak) , AnaMenu_sc (ortak), StartMenu (ortak) , puan_sc , ses_sc , bomb(ortak)
+<h3>Scriptler : ak47_sc, hazine_sc, KameraTakip, mermi_sc, ses_sc, para_sc, playerMove(ortak) , AnaMenu_sc (ortak), StartMenu (ortak) , puan_sc
 
 # Proje Arkadaşımın Geliştirdiği Kısımlar:
 <br>
