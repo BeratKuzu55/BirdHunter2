@@ -15,16 +15,16 @@ BÖLÜM 2
 ARA MENÜ
 ![aramenu](https://user-images.githubusercontent.com/75533278/212963814-77413bed-0655-4674-a95f-d1832ffc710f.PNG)
 
-<H1> Benim Geliştirdiğim Kısımlar:
+#Benim Geliştirdiğim Kısımlar:
 <br>
-  <h5>
+
 Oyun hikayesi , Oyun tasarımı , karakterin sağa sola yukarı yönlü hareketleri , karakterin silahı alabilmesi ve silah kullanımı , Mermi haraketi , karakter animasyonları hareket , karakter ses animasyonları , oyun müziği , Skor hesaplama , Sahne geçişleri , En yüksek skor hesabı ve kaydının alınması.
 
 <h3>Scriptler : ak47_sc, hazine_sc, KameraTakip, mermi_sc, ses_sc, para_sc, playerMove(ortak) , AnaMenu_sc (ortak), StartMenu (ortak) , puan_sc , ses_sc , bomb(ortak)
 
-<h1> Proje Arkadaşımın Geliştirdiği Kısımlar:
+# Proje Arkadaşımın Geliştirdiği Kısımlar:
 <br>
- <h5>
+
 Rastgele yükseklikte kuş oluşturma , kuşların karakter üzerine bomba atması , bomba karaktere çarptığında oyunun bitmesi , sahneler arası geçişler ,sahnenin kayıt edilmesi
 
 <h3>Scriptler : kus_sc , bomb, playerMove(ortak) , AnaMenu_sc (ortak), StartMenu (ortak)
