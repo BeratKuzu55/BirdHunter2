@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b124314c394f248408ee866fb51aa3ed
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - animator: {instanceID: 0}
+  - playerScoreText: {instanceID: 0}
+  - kus: {fileID: 8539000171946057931, guid: c44a315c17da0c0489d6e5fb034ac886, type: 3}
+  - clone_kus: {instanceID: 0}
+  - silah_tutma_pozisyonu: {instanceID: 0}
+  - audioSource_jump: {instanceID: 0}
+  - audioSource_steps: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
